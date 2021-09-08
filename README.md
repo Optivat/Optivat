@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Optivat
+- 👀 I’m interested in coding silly minecraft plugins.
+- 🌱 I’m currently learning java and C#
+- 💞️ I’m looking to collaborate on nothing, im good.
+- 📫 How to reach me arnavom5@gmail.com
